@@ -6,4 +6,4 @@ Here are two versions for the reminder app. The purpose of this app is to remind
 
 MCI Reminder Apps is V1
 
-SmartPrompter is V2 **(do this one)
+SmartPrompter is V2 **(do this one)**
